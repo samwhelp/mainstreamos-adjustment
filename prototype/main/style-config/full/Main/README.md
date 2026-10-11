@@ -1,6 +1,6 @@
 
 
-# Style
+# Style Config
 
 * [Config File Path](#config-file-path)
 * [Arch Package](#arch-package)

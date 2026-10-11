@@ -1,6 +1,6 @@
 
 
-# Lightdm
+# Cursor Config
 
 * [Config File Path](#config-file-path)
 * [Arch Package](#arch-package)
