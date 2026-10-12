@@ -130,6 +130,104 @@ nm-connection-editor
 
 
 ##
+## ## Package / Font
+##
+
+ttf-dejavu
+
+
+ttf-ubuntu-font-family
+#ttf-ubuntu-nerd
+#ttf-ubuntu-mono-nerd
+
+
+#noto-fonts
+noto-fonts-cjk
+#noto-fonts-emoji
+#noto-fonts-extra
+
+
+ttf-liberation
+#ttf-liberation-mono-nerd
+
+
+#ttf-jetbrains-mono
+
+
+
+
+##
+## ## Package / Input Method / fcitx5
+##
+
+
+##
+## ## Arch Wiki
+##
+## * [Fcitx5](https://wiki.archlinux.org/title/Fcitx5)
+##
+
+
+
+
+##
+## ## Package Group / fcitx5
+##
+
+#fcitx5-im
+
+
+
+
+##
+## ## Package / fcitx5
+##
+
+fcitx5
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-qt
+
+fcitx5-chewing
+
+
+
+
+#fcitx5-chinese-addons
+#fcitx5-table-extra
+#fcitx5-table-other
+
+
+
+
+#fcitx5-m17n
+
+
+
+#fcitx5-bamboo
+
+
+
+
+#fcitx5-pinyin-zhwiki
+
+
+
+
+#fcitx5-rime
+#fcitx5-mozc
+
+
+
+
+#fcitx5-anthy
+#fcitx5-skk
+#fcitx5-kkc
+
+
+
+
+##
 ## ## Package / Theme
 ##
 
