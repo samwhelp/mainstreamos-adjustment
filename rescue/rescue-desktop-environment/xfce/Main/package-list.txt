@@ -73,7 +73,25 @@ xfce4-whiskermenu-plugin
 
 
 ##
-## ## Package / Desktop Environment / polkit
+## ## Package / Window Manager / xfwm4
+##
+
+#xfwm4
+
+
+
+
+##
+## ## Package / Window Manager / labwc
+##
+
+#labwc
+
+
+
+
+##
+## ## Package / Polkit
 ##
 
 ##
@@ -102,20 +120,10 @@ polkit-gnome
 
 
 ##
-## ## Package / Window Manager / xfwm4
+## ## Package / Network
 ##
 
-#xfwm4
-
-
-
-
-##
-## ## Package / Window Manager / labwc
-##
-
-#labwc
-
+network-manager-applet nm-connection-editor
 
 
 
