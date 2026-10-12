@@ -123,7 +123,9 @@ polkit-gnome
 ## ## Package / Network
 ##
 
-network-manager-applet nm-connection-editor
+network-manager-applet
+nm-connection-editor
+
 
 
 
