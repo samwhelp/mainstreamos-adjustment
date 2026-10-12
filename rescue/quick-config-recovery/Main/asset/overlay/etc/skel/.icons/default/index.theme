@@ -1,6 +1,2 @@
-
 [Icon Theme]
-Name=Default
-Comment=Default cursor theme
-Inherits=breeze_cursors,breeze_cursors,Adwaita
-Size=24
+Inherits=Bibata-Modern-Classic
