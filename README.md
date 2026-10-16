@@ -48,6 +48,12 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Archlinux Adjustment](https://samwhelp.github.io/archlinux-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-adjustment) |
+| [Quickshell Adjustment](https://samwhelp.github.io/quickshell-adjustment/) | [GitHub](https://github.com/samwhelp/quickshell-adjustment) |
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [ML4W Adjustment](https://samwhelp.github.io/ml4w-adjustment/) | [GitHub](https://github.com/samwhelp/ml4w-adjustment) |
 
 
 
