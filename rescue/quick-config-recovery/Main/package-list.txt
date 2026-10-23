@@ -237,6 +237,7 @@ fcitx5-chewing
 #qt5-svg
 #qt6-svg
 
+#qt6ct
 #kvantum
 
 
